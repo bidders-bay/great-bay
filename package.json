@@ -1,0 +1,19 @@
+{
+  "name": "great-bay",
+  "version": "1.0.0",
+  "description": "A center which allows the user to create and bid on items.",
+  "main": "Great-Bay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bidders-bay/great-bay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bidders-bay/great-bay/issues"
+  },
+  "homepage": "https://github.com/bidders-bay/great-bay#readme"
+}
